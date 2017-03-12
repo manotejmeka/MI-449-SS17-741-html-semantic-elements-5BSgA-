@@ -1,0 +1,20 @@
+body{
+	text-align: center;
+}
+.pets-thumbnail{
+	max-height: 350px;
+	max-width: 350px;
+}
+ul.rows{
+  display: table;
+  width: 100%;
+  text-align: center;
+}
+
+ul.rows > li {
+  display: table-cell;
+}
+
+.mySlides{
+	width: 100%;
+}
